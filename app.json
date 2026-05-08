@@ -1,8 +1,7 @@
 {
-  "name": "ADEEL-MD",
-  "description": "Javascript WhatsApp bot made by ADEEL-MD",
+  "name": "HAMZA-302"description": "Javascript WhatsApp bot made by HAMZA-302",
   "logo": "https://files.catbox.moe/sx07qa.jpg",
-  "keywords": ["ADEEL-MD"],
+  "keywords": [HAMZA-302"],
   "success_url": "/",
 
   "stack": "container",
@@ -16,7 +15,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "HAMZA-302"
     }, 
       
     "PREFIX": {
@@ -70,25 +69,25 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY ADEEL-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY HAMZA-302 🖤*"
     }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "HAMZA-302"
     }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923035512967"
+      "value": "923470807458"
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "HAMZA-302"
     }, 
 
     "ANTI_LINK": {
